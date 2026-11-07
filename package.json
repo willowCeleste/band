@@ -71,6 +71,6 @@
     "jest": "^30.5.2",
     "ts-jest": "^29.4.15",
     "typescript": "^7.0.2",
-    "webpack-cli": "^7.2.3"
+    "webpack-cli": "^7.3.1"
   }
 }
